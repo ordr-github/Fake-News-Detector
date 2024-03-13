@@ -1,6 +1,6 @@
 # Fake-News-Detector
 
-A fake news detection project made using pandas, numpy, seaborn, matplotlib, sklearn libraries.
+A fake news detection python project made using pandas, numpy, seaborn, matplotlib, sklearn libraries.
 
 Datasets used(True news csv & Fake news csv): [https://drive.google.com/drive/folders/1ByadNwMrPyds53cA6SDCHLelTAvIdoF_](https://drive.google.com/drive/folders/1ByadNwMrPyds53cA6SDCHLelTAvIdoF_)
 
